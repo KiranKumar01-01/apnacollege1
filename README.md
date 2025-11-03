@@ -1,3 +1,3 @@
 # apnacollege1
-thz is ma first repo
+thz is ma first repo.
 author - Kiran
